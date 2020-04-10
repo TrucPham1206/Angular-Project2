@@ -1,0 +1,20 @@
+﻿{
+  "dinner": [
+    {
+      "food": "Salmon with Roasted Red Pepper Quinoa Salad",
+      "price": "11.25",
+      "calories": "480"
+    },
+    {
+      "food": "Slow-Cooker Balsamic Short Ribs",
+      "price": "13.80",
+      "calories": "539"
+    },
+    {
+      "food": " Steak & Pepper Tartines with Arugula Salad",
+      "price": "18.25",
+      "calories": "501"
+    }
+    
+  ]
+}

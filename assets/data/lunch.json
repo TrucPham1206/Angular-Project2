@@ -1,0 +1,20 @@
+﻿{
+  "lunch": [
+    {
+      "food": "Pita Pizza",
+      "price": "3.25",
+      "calories": "376"
+    },
+    {
+      "food": "Chicken Avocado BLT Wrap",
+      "price": "5.70",
+      "calories": "340"
+    },
+    {
+      "food": "Green Goddess Salad with Chicken",
+      "price": "4.25",
+      "calories": "296"
+    }
+    
+  ]
+}
